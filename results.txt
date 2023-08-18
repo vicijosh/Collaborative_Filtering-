@@ -1,0 +1,12 @@
+
+Collaborative Filtering Project Results
+
+User-Based Collaborative Filtering:
+-----------------------------------
+- Recommended videos for user 5: [Error due to mock data structure]
+
+Item-Based Collaborative Filtering:
+-----------------------------------
+- Recommended videos for user 5: [Error due to mock data structure]
+
+Note: Due to the nature of the mock data where every user "rated" every video, the recommendation approach couldn't suggest new videos.
