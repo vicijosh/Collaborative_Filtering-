@@ -1,0 +1,23 @@
+
+Video Recommendation System Using Collaborative Filtering
+
+Data Preprocessing:
+-------------------
+- Removed entries with missing video IDs or channel titles.
+- Generated a user-video interaction matrix.
+
+Exploratory Data Analysis:
+--------------------------
+- Identified the top 10 channels with the most videos. 
+  (This data is visualized in the Python script using a bar chart.)
+
+Model Building:
+---------------
+- Used Collaborative Filtering with Singular Value Decomposition (SVD).
+- Split the data into a training set (75%) and a test set (25%).
+
+Model Evaluation:
+-----------------
+- Evaluated the model using the Root Mean Squared Error (RMSE).
+  (Note: Actual RMSE value can be obtained by running the provided Python script.)
+
