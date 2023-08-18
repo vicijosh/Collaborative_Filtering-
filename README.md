@@ -14,7 +14,7 @@ The recommendation system aims to suggest videos based on user interactions, spe
 
 ## How to Run
 1. Ensure you have the necessary libraries installed (pandas, numpy, matplotlib, seaborn, surprise).
-2. Download the 'Global YouTube Statistics.csv' dataset.
+2. Download the 'Global_YouTube_Statistics.csv' dataset.
 3. Run the `video_recommendation.py` script.
 4. Visualize the results and the model's performance metric (RMSE).
 
