@@ -9,7 +9,7 @@ from surprise import Reader, Dataset, SVD, accuracy
 from surprise.model_selection import cross_validate
 
 # Data Loading
-data_path = "PATH_TO_YOUR_DATASET/Global_YouTube_Statistics.csv"  # <-- Adjust this path
+data_path = "vicijosh/video_recommendation/Global_YouTube_Statistics.csv"  # <-- Adjust this path
 data = pd.read_csv(data_path)
 
 # Data Preprocessing
